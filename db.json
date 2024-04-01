@@ -2,7 +2,9 @@
     "products" : [
        {
         "id" : 1,
-        "name" : "sanpham 1 "
+        "name" : "sanpham 1 ",
+        "price": 200,
+        "description" : "dat dadsdasjdsabbsbsbsbbsbskajndmnsdmsdnsb"
        }
 
 ],
