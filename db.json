@@ -93,7 +93,23 @@
       "image": "",
       "description": "",
       "id": 16
+    },
+    {
+      "email": "datkidonguyen2003@gmail.com",
+      "password": "datpro111",
+      "id": 17
+    },
+    {
+      "email": "datkidonguyen2003@gmail.com",
+      "password": "datpro111",
+      "id": 18
     }
   ],
-  "user": []
+  "users": [
+    {
+      "email": "datkidonguyen2003@gmail.com",
+      "password": "$2a$10$xlHjtW57HJytW51aieIDs.lULH/jtSoKJ98y8j4D7R668R/EoQ0UK",
+      "id": 1
+    }
+  ]
 }

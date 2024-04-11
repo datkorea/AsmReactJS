@@ -30,7 +30,7 @@ const Signup = () => {
 
   const { mutate } = useMutation({
     mutationFn: async (user) => {
-      return await axios.post(`http://localhost:3000/products`, user);
+      return await axios.post(`http://localhost:3000/register`, user);
     },
   });
   const onSubmit = (user) => {
